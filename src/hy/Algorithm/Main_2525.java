@@ -15,7 +15,7 @@ public class Main_2525 {
 		
 		int hh = Integer.parseInt(arr[0]);
 		int mm = Integer.parseInt(arr[1]);
-		int cookingTime = Integer.parseInt(br.readLine());;
+		int cookingTime = Integer.parseInt(br.readLine());
 		
 		int afterTime = (hh * 60) + mm + cookingTime;
 		
