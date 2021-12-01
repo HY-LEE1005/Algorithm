@@ -23,6 +23,7 @@ public class Main_2010 {
 		
 		System.out.println(sum - (Count - 1));
 		
+		br.close();
 	}
 
 }
